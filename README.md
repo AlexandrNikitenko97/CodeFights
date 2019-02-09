@@ -1,3 +1,3 @@
 # CodeFights tasks
 
-My CodeFight tasks solving on Python3
+My CodeFight tasks solving using Python3
